@@ -64,6 +64,6 @@ I'm a Full Stack Developer from Olsztyn
 
 ###
 
-## Fun Facts:
+## Fun Facts
 - 💡 I believe in "Learn by doing" philosophy.
 - 🌱 Nature and coffee fuel my creativity!
